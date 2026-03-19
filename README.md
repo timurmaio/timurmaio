@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ship it or die trying
 
 <!--
 **timurmaio/timurmaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
